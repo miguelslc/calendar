@@ -50,7 +50,7 @@ export const Calendar = () => {
                 <PagingButton onClick={nextMonth}>&gt;</PagingButton>
             </div>
             <CalendarContainer>
-                <DayHeader>DomingoLunes</DayHeader>
+                <DayHeader>Domingo</DayHeader>
                 <DayHeader>Lunes</DayHeader>
                 <DayHeader>Martes</DayHeader>
                 <DayHeader>Miercoles</DayHeader>
